@@ -1,10 +1,13 @@
 _repo: The-Life-of-a-Fox-Written-by-Himself_58769
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Alken, H.
     gutenberg_agent_id: '50145'
     url: http://www.gutenberg.org/2009/agents/50145
+covers:
+- cover_type: archival
+  image_path: 58769-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Thomas F. A.
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '3343'
     url: http://www.gutenberg.org/2009/agents/3343
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58769#The-Life-of-a-Fox-Written-by-Himself
 gutenberg_issued: '2019-01-26'
 gutenberg_type: Text
 identifiers:
